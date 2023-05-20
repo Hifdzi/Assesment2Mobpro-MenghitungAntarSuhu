@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Assemsent 2 - Konversi Nilai Suhu</string>
+    <string name="convert">Masukkan Data Celcius</string>
+    <string name="suhu1">Ubah Celcius Ke Farenheit</string>
+    <string name="suhu2">Ubah Celcius Ke Reamur</string>
+    <string name="suhu3">Ubah Celcius Ke Kelvin</string>
+    <string name="suhu4">sejarah singkat Suhu</string>
+    <string name="result">Nilai Hasil Konversi: %s</string>
+    <string name="hitung">Hitung</string>
+    <string name="penjelasan_assesment1">Konversi Suhu Celcius,Kelvin,dan Reamur Android</string>
+    <string name="nama">.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hapus_histori">Hapus Histori</string>
+    <string name="konfirmasi_hapus">Hapus semua histori?</string>
+    <string name="hapus">Hapus</string>
+    <string name="batal">Batal</string>
+    <string name="hasil_x" formatted="true">$s</string>
+    <string name="data_x">Suhu: %1$.1f - TB: %2$.1f - %3$s</string>
+    <string name="farenhit">Farenhit</string>
+    <string name="kelvin">Kelvin</string>
+    <string name="reamur">Reamur</string>
+    <string name="copyright">Aplikasi Konversi Suhu Dari Celcius Ke Suhu Lainnya </string>
+    <string name="share_data">Share Data</string>
+    <string name="Home">home</string>
+</resources>
